@@ -1,0 +1,671 @@
+@media screen and (min-width:992px) and (max-width:1200px) {
+    .Another_Section h6 {
+        margin-left: 3px;
+    }
+
+    .Another_Section h3 {
+        font-size: 26px;
+        margin-left: 0;
+    }
+
+    .Another_Section .button {
+        margin-right: 0;
+    }
+    .navbar .signIn {
+        margin-left: -1rem;
+    }
+
+
+    /* Popular Contest */
+    .banner{
+        height: 844px;
+    }
+    .img {
+        padding: 10px;
+        border-radius: 13px;
+        height: 64px;
+    }
+    img.random_Pic {
+        max-width: 95%;
+    }
+    .d-flex .text h2 {
+        font-size: 13.2px;
+    }
+
+    p.digit {
+        font-size: 11px;
+        margin-top: -0.5rem;
+    }
+
+    p.digit em {
+        padding: 5px 5px;
+        margin-left: 10px;
+        margin-right: 1.5px;
+}
+
+    .main_button {
+        margin-top: 2rem;
+        margin-left: 0.3rem;
+        width: 96%;
+        margin-bottom: 1.5rem;
+    }
+
+    /* Handpick */
+    .content .participate h6 {
+        margin-left: 1rem;
+        font-size: 17px;
+    }
+
+    .content .picture {
+        margin-right: 1rem;
+    }
+
+    .content .picture h6 {
+        font-size: 17px;
+    }
+
+    .content .participate p {
+        margin-left: 1rem;
+    }
+ 
+    
+    .hover-effect .content h4 {
+        font-size: 17px;
+    } 
+    button.owl-prev {
+        left: -28px;
+    }
+    button.owl-next { 
+        left: 27px;
+    }
+    .Popular_Contest .col-lg-3 {
+       
+        margin-left: 0.8rem;
+    }
+  
+    
+    
+}
+
+
+@media screen and (min-width:768px) and (max-width:991.88px) {
+    .navbar .signIn {
+        border: 1px solid #00bdfe;
+        border-radius: 10px;
+        padding: 7px 23px;
+        position: absolute;
+        top: 22px;
+        right: 85px;
+    }
+
+    .navbar .navbar-nav {
+        margin-top: 5rem !important;
+        width: 100%;
+        padding-top: 1.5rem;
+        padding-bottom: 2rem;
+        height: auto;
+    }
+
+    button.navbar-toggler {
+      
+        position: absolute;
+        top: 22px;
+        right: 18px;
+        border: 1px solid #00bdfe;
+    }
+
+    a.nav-link {
+        text-align: center;
+        line-height: 2.2rem;
+        margin-right: 0;
+    }
+
+    /* Middle */
+    .banner {
+       
+        height: 892px;
+    }
+    .banner_text h1 {
+        padding-bottom: 0.5rem;
+        margin-top: 165px;
+    }
+
+    .banner_text .para {
+        margin: 30px 80px 30px 80px;
+    }
+
+    .Explore {
+        padding: 13px 40px;
+        font-size: 15px;
+    }
+
+    .Explore .Explore_contest {
+        font-size: 18px;
+    }
+
+    .carousel-inner {
+        display: flex;
+    }
+
+    .carousel-item {
+        display: block;
+        margin-right: 0;
+        flex: 0 0 calc(100%/3);
+    }
+
+
+    /* Poplar_contest */
+    .Another_Section h6 {
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+    .Another_Section h3 {
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        margin-left: 0;
+    }
+
+    img.random_Pic {
+        max-width: 73%;
+    }
+
+    .main_button {
+        margin-top: 1.5rem;
+        margin-left: 2.7rem;
+        width: 73%;
+        margin-bottom: 1.5rem;
+    }
+
+    .Another_Section .button {
+        margin-right: 0;
+    }
+
+    span.skyblue.ms-1 {
+        margin-right: 7px;
+        padding-left: 5px;
+    }
+
+    .d-flex.justify-content-end {
+        justify-content: center !important;
+        margin-top: 2rem;
+    }
+
+    .Popular_Contest .col-lg-3 {
+        width: 46.5%;
+        margin-right: 1.5%;
+        margin-top: 1.5rem;
+        margin-left: 11px;
+    }
+
+    /* Handpick */
+    section.Handpick {
+        height: 977px;
+    }
+    .Handpick .content {
+        margin-bottom: 1rem;
+        }
+    .content .participate h6 {
+        margin-left: 1rem;
+        font-size: 18px;
+    }
+    h6.text{
+        margin-top: -1rem;
+    }
+    .content .picture {
+        margin-right: 1rem;
+    }
+
+    .content .picture h6 {
+        font-size: 18px;
+    }
+
+    .content .participate p {
+        margin-left: 1rem;
+        font-size: 14px;
+    }
+
+    .content .participate p {
+        font-size: 14px;
+    }
+
+    .col-lg-4.col-md-6.Third {
+        margin: 32px 184px;
+    }
+
+    /* Contest Plan */
+    .Plan1, .Plan2, .Plan3 {
+        margin-right: 0px;
+        height: 508px;
+    }
+    img.plan_img1 {
+     
+        margin-top: -0.3rem;
+    }
+    .col-lg-4.col-sm-12 .btn {
+        padding: 9px 23px;
+    }
+
+
+    .col-lg-4.col-sm-12 .Plan3 .digital {
+        font-size: 12px;
+    }
+
+    p.Denim {
+
+        margin-top: -0.9rem !important;
+    }
+
+    p.USD {
+        font-size: 26px !important;
+    }
+
+    .col-lg-4.col-sm-12 button {
+        padding: 8px 19px;
+        margin-top: 1rem;
+        font-size: 12px;
+    }
+
+    footer {
+        height: 98px;
+        margin-top: 5rem;
+    }
+
+    footer p {
+        display: block;
+        margin: 38px;
+    }
+
+.owl-carousel .owl-item img{
+    border-radius: 16px !important;
+}
+button.owl-prev {
+    left: -28px;
+}
+button.owl-next { 
+    left: 27px;
+}
+}
+
+@media (max-width: 767.88px) {
+    .navbar .signIn {
+        border: 1px solid #00bdfe;
+        border-radius: 10px;
+        padding: 7px 10px;
+        position: absolute;
+        top: 22px;
+        right: 79px;
+    }
+
+    .navbar .navbar-nav {
+        margin-top: 80px !important;
+        width: 100%;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        height: auto;
+    }
+
+    button.navbar-toggler {
+        position: absolute;
+        top: 22px;
+        right: 18px;
+        border: 1px solid #00bdfe;
+    }
+
+    ul.navbar-nav {
+        width: 100% !important;
+        margin-top: 8rem !important;
+    }
+
+    a.nav-link {
+        text-align: center;
+        line-height: 2.2rem;
+        margin-right: 0;
+    }
+    .logo {
+        margin-top: -0.4rem;
+    }
+    
+    /* Middle */
+    .banner {
+        height: 953px;
+    }
+
+    .banner_text h1 {
+        padding-bottom: 0.5rem;
+        margin-top: 95px;
+        font-size: 50px;
+    }
+
+    .banner_text .para {
+        margin: 15px 0px 8px 0px;
+        padding: 21px;
+        font-size: 15px;
+    }
+    
+    .Explore {
+        padding: 14px 34px;
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+        margin-top: 0.8rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .Explore .Explore_contest {
+        font-size: 15px;
+    }
+
+    .col-lg-12 .button {
+        gap: 0;
+    }
+
+    .button .video {
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
+        margin-top: 15px;
+        margin-left: 0.5rem;
+    }
+
+    .col-lg-12 .button {
+        display: inline;
+    }
+
+    /* Photos */
+    .carousel-item .row {
+
+        margin-top: 46rem;
+        position: relative;
+    }
+
+    img.img {
+
+        margin-bottom: 10px;
+    }
+
+    
+    .card {
+        margin: 18px;
+        height: 300px;
+    }
+
+    /* Poplar_contest */
+    section.Popular_Contest {
+        margin-bottom: 5rem;
+        margin-top: 70px;
+    }
+
+    .Another_Section {
+        margin-top: 25px;
+    }
+
+    .Another_Section h6 {
+        margin-left: 0;
+        display: flex;
+        font-size: 15px;
+        justify-content: center;
+    }
+
+    .Another_Section h3 {
+        font-size: 26px;
+        margin-top: 1rem;
+        display: flex;
+        justify-content: center;
+        margin-left: 0;
+        display: block;
+        text-align: center;
+    }
+
+    .Another_Section .button {
+        margin-right: 0;
+        margin-top: -1rem;
+    }
+
+    span.skyblue.ms-1 {
+        margin-right: 0;
+        padding-left: 0;
+    }
+
+    .d-flex.justify-content-end {
+        justify-content: center !important;
+        margin-top: 2rem;
+    }
+
+    .Popular_Contest .col-lg-3 {
+        border: 1px solid #dad5d5;
+        border-radius: 15px;
+        width: 46.5%;
+        margin-left: 10px;
+        margin-right: 1.5%;
+        margin-bottom: 1.5rem;
+    }
+
+    .d-flex.Portr {
+        margin-left: 0;
+    }
+
+    img.random_Pic {
+        max-width: 96%;
+    }
+
+    .main_button {
+
+        margin-left: 0.5rem;
+        width: 93%;
+        margin-bottom: 1.5rem;
+    }
+    .Open_Contest {
+        margin-top: -1.5rem !important;
+    }
+
+    
+
+    /* Handpick */
+    .Handpick .col-lg-12 {
+        margin-top: 4.5rem;
+    }
+
+    section.Handpick {
+        height: 1352px;
+    }
+
+    .content .participate h6 {
+        margin-left: 1rem;
+        font-size: 18px;
+    }
+
+    .Handpick .col-lg-12 h4 {
+        font-size: 26px;
+        text-align: center;
+        display: block;
+        margin-top: 1.5rem;
+    }
+
+    .Handpick .col-lg-12 h4 .skyblue {
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+
+    .col-lg-12.handpick {
+        margin-top: 40px;
+    }
+
+    h6.text {
+        font-size: 15px;
+    }
+
+    img.image {
+
+        max-width: 100%;
+        height: 240px;
+    }
+
+    .Handpick .content {
+        width: 100%;
+            margin-bottom: -33px;
+
+        
+    }
+    h6.text{
+        margin-top: -1rem;
+    }
+    .content .picture {
+        margin-right: 1rem;
+    }
+
+    .content .picture h6 {
+        font-size: 18px;
+    }
+
+    .content .participate p {
+        margin-left: 1rem;
+        font-size: 14px;
+    }
+
+    .content .participate p {
+        font-size: 14px;
+    }
+
+    .col-lg-4.col-md-6.second {
+        margin-top: 2rem;
+    }
+
+    .col-lg-4.col-md-6.Third {
+        margin-top: 2rem;
+    }
+
+    /* Contest_Plan */
+
+    .Contest_Plan .col-lg-12 h3 {
+        font-size: 26px;
+        text-align: center;
+        display: block;
+        margin-top: 1rem;
+    }
+
+    .col-lg-4.col-sm-12 {
+        width: 100%;
+    }
+
+   
+
+    .col-lg-4.col-sm-12 .btn1 {
+        margin-top: 1rem;
+    }
+    .Plan1, .Plan2, .Plan3{
+        margin-top: 2rem;
+        height: 590px;
+        margin-right: 0;
+    }
+    ul.Basic_details {
+        font-size: 14px;
+    }
+    ul.Basic_details li {
+       
+        margin-top: -1px;
+    }
+
+    /* footer */
+    footer {
+        height: 99px;
+        margin-top: 4rem;
+    }
+
+    footer p {
+        display: block;
+        margin: 27px;
+    }
+
+    
+    .carousel_image {
+        display: flex;
+        justify-content: center;
+        /* align-items: center; */
+        text-align: center;
+    }
+    img.d-block.caro-img {
+        max-width: 100%;
+        border-radius: 15px;
+    }
+    section.photos {
+        position: relative;
+        margin-top: -11.5rem;
+    }
+    .owl-carousel .owl-item img{
+        height: 342px !important;
+    }
+
+    button.owl-prev {
+        position: relative !important;
+        left: -16px !important;
+        top: -195px !important;
+    }
+    button.owl-next {
+        position: relative !important;
+        left: 17px !important;
+        top: -195px !important;
+    }
+    .hover-effect .content h4 {
+       
+        font-size: 18px;
+    }
+    span.gray{
+        margin-left: 4px;
+    }
+    i.fa.fa-star {
+        margin-left: 1px;
+        margin-right: 1px;
+    }
+}
+
+@media (max-width: 576px) {
+    .logo {
+        display: flex;
+        flex-direction: column;
+        margin-top: 0.2rem;
+    }
+    
+    a.Photography {
+        font-size: 12px;
+    }a.navbar-brand {
+        font-size: 25px;
+    }
+    .navbar-brand span {
+        font-size: 29px;
+    }
+
+    
+    .Popular_Contest .col-lg-3 {
+        width: 80%;
+        margin-top: 1.5rem;
+        margin: 14px 33px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .main_button {
+        margin-left: 10px;
+        width: 94%;
+        margin-bottom: 1.5rem;
+    }
+
+    /* Contest_Plan */
+    
+    .Plan1, .Plan2, .Plan3{
+        height: 580px;
+        margin-right: 0;
+    }
+    /* Footer */
+    footer {
+        height: 135px;
+    }
+
+    footer p {
+        display: block;
+        margin: 34px;
+    }
+    
+}
